@@ -35,7 +35,7 @@
     "classnames": "^2.2.6",
     "dayjs": "^1.8.26",
     "dotenv-webpack": "^1.8.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "loglevel": "^1.6.8",
     "next": "9.4.0",
     "next-images": "^1.4.0",
